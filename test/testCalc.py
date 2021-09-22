@@ -1,8 +1,6 @@
-import sys
-
+import unittest
 
 from src.Calculator import Calculator
-import unittest
 
 
 class TestArithmeticOperations(unittest.TestCase):
